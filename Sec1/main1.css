@@ -1,0 +1,92 @@
+h1{
+    font-size: 30px;
+    color: #00556a;
+    font-weight: bold;
+}
+p{
+    margin-top: 130px;
+    font-size: 50px;
+    color: #ffffff;
+}
+p1{
+  font-size: 30px;
+  color: #ffffff;
+}
+p2{
+  font-size: 20px;
+  color: #ffffff;
+}
+b{
+    color: #ffe100;
+}
+a{
+    color: #00556a;
+}
+nav{
+    height: 80px;
+}
+div{
+  
+    width: 100%;
+    height: 0px;
+}
+#s1{
+    height: 600px;
+    background-image: url("image/pic1.png");
+    background-position: center;
+    background-size: 100%;
+
+}
+
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button:hover {
+    border-radius: 5%;
+    border: 3px solid rgb(0, 255, 191);
+  }
+  .button1 {
+    background-image: url("image/D1.jpg");
+  }
+  .button2 {
+    background-image: url("image/D2.jpg");
+  }
+  .button3 {
+    background-image: url("image/D3.jpg");
+  }
+  .button4 {
+    background-image: url("image/D4.jpg");
+  }
+  .button5 {
+    background-image: url("image/D5.jpg");
+  }
+  .button6 {
+    background-image: url("image/D6.jpg");
+  }
+  .button7 {
+    background-image: url("image/D7.jpg");
+  }
+  .button8 {
+    background-image: url("image/D8.jpg");
+  }
+  .button9 {
+    background-image: url("image/D9.jpg");
+  }
+  .button10 {
+    background-image: url("image/D10.jpg");
+  }
